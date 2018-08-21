@@ -1,3 +1,4 @@
+##fis3
 
 fis3 server open //打开服务器目录 fis3 release -d ./output fis3 server start //启动服务器 fis3 release -wL //监听目录，并且刷新浏览器
 
